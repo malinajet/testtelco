@@ -2,7 +2,7 @@ package com.company;
 import java.util.Scanner;
 import java.util.Random;
 
-public class test7 {
+public class sortArrayShell {
     public static void main(String [] args){
         Scanner sc = new Scanner(System.in);
         int  j, i, n, d, ch;
